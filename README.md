@@ -33,4 +33,4 @@ Se utilizará el algoritmo Sobel para obtener esta imagen:
 Se utilizará el algoritmo Frei - chen para obtener esta imagen:
 ![image](https://user-images.githubusercontent.com/108247794/183519633-70d18c7e-e6a7-4f1a-9701-6173e28ea4ca.png)
 
-En la segundaa imagen se observa como diferentes algoritmos sirven para obtener una imagen con bordes donde el algoritmo Sobel resulta mejor para la obtención de estos.
+En la segunda imagen se observa como diferentes algoritmos sirven para obtener una imagen con bordes donde el algoritmo Sobel resulta mejor para la obtención de estos.
